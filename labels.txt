@@ -1,0 +1,6 @@
+Healthy
+Powdery_Mildew
+Rust
+Leaf_Blight
+Early_Blight
+Late_Blight
